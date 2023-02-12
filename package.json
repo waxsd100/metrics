@@ -47,7 +47,7 @@
     "minimatch": "^3.0.4",
     "node-chartist": "^1.0.5",
     "node-fetch": "^2.6.1",
-    "open-graph-scraper": "^4.9.0",
+    "open-graph-scraper": "^5.0.5",
     "png-js": "^1.0.0",
     "prismjs": "^1.24.1",
     "puppeteer": "^10.2.0",
@@ -64,7 +64,7 @@
     "eslint": "^7.32.0",
     "jest": "^27.0.3",
     "libxmljs2": "^0.27.0",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.20"
   },
   "jest": {
     "testEnvironment": "node",
